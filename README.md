@@ -20,17 +20,19 @@
 
 <br>
 
-# UP SCALING MODEL PICTURES
+# UP SCALING MODEL PICTURE
+<br>
 
-![PIC 1](https://github.com/ShobikaG/BOB_CONNECT/assets/110718471/468e4135-deff-444d-818f-ac44e2a449a9)
+![WhatsApp Image 2024-06-30 at 22 35 53_de224e23](https://github.com/ShobikaG/BOB_CONNECT/assets/110718471/1d018728-b007-49a5-9789-49dcf037de7a)
 
-![PIC 2](https://github.com/ShobikaG/BOB_CONNECT/assets/110718471/6c6d8795-4dce-4789-b562-5fa2f079de08)
-
-![PIC 3](https://github.com/ShobikaG/BOB_CONNECT/assets/110718471/ef864e5d-f8a0-4d9b-8ba2-4639313735b8)
-
-![PIC 4](https://github.com/ShobikaG/BOB_CONNECT/assets/110718471/c9df9b5b-55ec-47fe-ac35-bf336aeae2b2)
+<br>
 
 # VIDEO
+
+<br>
+<p><center><b><i>Click to watch ! </i></b></center> </p>
+
+<br>
 
 [![YouTube](http://i.ytimg.com/vi/0FzzOscxNnM/hqdefault.jpg)](https://www.youtube.com/watch?v=0FzzOscxNnM)
 
