@@ -15,6 +15,7 @@
 <br>
   
 # UP SCALING MODEL ARCHITECTURE
+<br>
 
 ![BOB_CONNECT architecture](https://github.com/ShobikaG/BOB_CONNECT/assets/110718471/91546cde-191a-434a-8048-c1834a2cda63)
 
@@ -36,7 +37,8 @@
 <br>
 
 [![YouTube](http://i.ytimg.com/vi/0FzzOscxNnM/hqdefault.jpg)](https://www.youtube.com/watch?v=0FzzOscxNnM)
-
+<br>
+<br>
 
 
 
