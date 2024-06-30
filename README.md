@@ -23,7 +23,8 @@
 # UP SCALING MODEL PICTURE
 <br>
 
-![WhatsApp Image 2024-06-30 at 22 35 53_de224e23](https://github.com/ShobikaG/BOB_CONNECT/assets/110718471/1d018728-b007-49a5-9789-49dcf037de7a)
+![WhatsApp Image 2024-06-30 at 23 05 33_9f0bb58f](https://github.com/ShobikaG/BOB_CONNECT/assets/110718471/f865e584-355b-4791-9df5-a75bc4282a47)
+
 
 <br>
 
